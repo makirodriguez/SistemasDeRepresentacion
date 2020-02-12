@@ -1,0 +1,48 @@
+Ingreso de comandos: 
+menu desplegable
+haciendo click en los iconos por barra de herramientas
+linea de comandos (con las iniciales de la herramienta)
+
+Ayudas de dibujo: todo lo que ayuda para tomar referencia
+Se pueden activar con las teclas de funcion
+Modo ortogonal --> lienas rectas (f8)
+osna --> marca los puntos medios y extremos (f3)
+Valor de linea --> para los grosores de linea
+
+Linea: segmentos
+Polinea: Figuras completas
+
+Herramientas de modificacion: (son de edicion)
+Copiar: Tomo el objeto y lo voy copiando en cualquier lado, indefinidamente
+Offset/Desface: Si quiero copiar un objeto a una distancia regular 
+Espejar: Funciona a traves de un eje y me permite borrar o no el objeto original
+Escala: Factor>1 amplia y <1 reduce
+Estirar:A un objeto lo deformo en cualquier direccion. Solo sirve si se selecciona con el modo crossing(verde)
+
+Recortar y alargar: Tener en cuenta el orden de asignacion, siempre hay que marcar primero el objeto cortante o hasta donde quiero alargar y luego selecciono lo que quiero borrar o alargar
+Rectangulo: Hacerlo con herramienta rectangulo con coordenadas (x, y) (son el ancho y alto)
+
+Modo seleccion:
+Click --> basico
+Window --> azul -> 100% de izquierda a derecha
+Crossing --> verde -> solo parte -> derecha a izquierda -> se usa para seleccionar muchas cosas por separado
+
+Configuracion de capas:
+Nunca es recomendable dibujar en la preexistente y configurar una capa de 0
+
+Sombreado:
+Solido: un color
+Textura: rayados por IRAM o texturas representativas, hormigon, pasto 
+La forma de sobrear es seleccionar el objeto o por puntos, islas el relleno esta entre el primer y segundo objeto
+
+Bloques:
+Menu desplegable --> insertar
+icono externo a la barra de herramientas
+se pueden insertar o crear
+Se usan cuando repetimos muchos simbolos, objetos, etc
+
+Arco:
+Elipse:
+
+Menu desplegable:
+acotar -> Estilo de cota
